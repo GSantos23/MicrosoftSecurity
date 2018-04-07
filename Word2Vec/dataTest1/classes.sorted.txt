@@ -1,0 +1,12 @@
+</s> 0
+  1
+Memory_Handling 2
+MicrosoftProduct_InternetExplorer 3
+MicrosoftProduct_Office 4
+Networking_Server 5
+OS_CoreFunctions 6
+MicrosoftProduct_Misc. 7
+API_.NET 8
+MicrosoftProduct_Server 9
+OS_Kernel 10
+Services_MicrosoftServices 11

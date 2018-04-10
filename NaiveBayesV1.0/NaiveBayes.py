@@ -16,6 +16,7 @@ import pandas as pd
 count_vect = CountVectorizer(stop_words = 'english')
 info = pd.DataFrame()
 year = []
+# You need to specify the document/data path. 
 for x in range (1998,2018):
     df = pd.read_excel('C:/Users/maxim/Desktop/data.xlsx',sheet_name = str(x))
     year.append(df)
